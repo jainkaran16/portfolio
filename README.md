@@ -7,6 +7,5 @@ Visit the live site: [jainkaran16.github.io/portfolio](https://jainkaran16.githu
 ## Structure
 
 - `dist/` contains the static website.
-- `.openai/hosting.json` contains the hosting configuration.
 
 Open `dist/index.html` in a browser to view the site locally.
